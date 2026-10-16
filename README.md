@@ -158,9 +158,19 @@ Two pages built in Power BI from the `vw_engagement` view, so slicers filter eve
 
 **Slicers:** date range, service line, region, client industry, engagement status, office.
 
-<!-- Add screenshots here: -->
-<!-- ![Executive page](D:\codeeeee\Practice projects\consulting-engagement-dashboard\Images) -->
-<!-- ![Portfolio page](D:\codeeeee\Practice projects\consulting-engagement-dashboard\Images) -->
+### Dashboard screenshots
+
+#### Page 1: Executive engagement
+
+![Executive engagement page](Images\Executive_engagement_overview.png)
+
+> *One view of delivery risk, status mix, utilization and risk severity, so leadership can see in seconds where attention is needed.*
+
+#### Page 2: Portfolio and operations
+
+![Portfolio and operations page](Images/Portfolio_and_operational_analysis.png)
+
+> *Drills into risk types, delivery stages, the exception register and portfolio concentration, showing which open engagements to review first.*
 
 ## Key findings
 
@@ -277,4 +287,5 @@ consulting-engagement-dashboard/
 
 ## Author
 
-**[Your Name]** · [LinkedIn] · [GitHub]
+**[Pranay Meskar]** · [[LinkedIn](https://www.linkedin.com/in/pranay-meskar-b2bb08413/)] · [[GitHub](https://github.com/pranaymeskar08
+)]
