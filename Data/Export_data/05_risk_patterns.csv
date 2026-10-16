@@ -1,0 +1,45 @@
+"dimension","segment","records","high_critical_records","high_critical_pct","late_stage_high_risk","none_reported_pct"
+industry,Materials,10007,843,8.4,261,82.0
+industry,Automotive,9963,839,8.4,300,82.2
+industry,Manufacturing,9952,814,8.2,277,82.5
+industry,Infrastructure,10069,812,8.1,298,82.2
+industry,Telecommunications,9978,788,7.9,280,82.5
+industry,Energy & Utilities,10031,758,7.6,234,82.6
+milestone,Deployment,7471,650,8.7,223,81.9
+milestone,Steerco,7526,647,8.6,218,81.9
+milestone,Discovery,7483,618,8.3,211,82.1
+milestone,Testing,7451,622,8.3,210,82.1
+milestone,Design,7314,584,8.0,193,82.6
+milestone,Hypercare,7533,588,7.8,211,82.8
+milestone,Governance,7519,569,7.6,169,82.6
+milestone,Build,7703,576,7.5,215,82.6
+region,Central,11967,1001,8.4,351,82.3
+region,East,12027,1004,8.3,335,82.2
+region,South,11989,956,8.0,317,82.1
+region,West,11949,951,8.0,317,82.4
+region,North,12068,942,7.8,330,82.6
+risk_severity,High,2446,2446,100.0,853,0.0
+risk_severity,Critical,2408,2408,100.0,797,0.0
+risk_severity,None,50426,0,0.0,0,98.0
+risk_severity,Low,2372,0,0.0,0,0.0
+risk_severity,Medium,2348,0,0.0,0,0.0
+risk_type,Budget Overrun,1183,630,53.3,228,0.0
+risk_type,Resource Shortage,1232,643,52.2,204,0.0
+risk_type,Dependency Delay,1220,629,51.6,214,0.0
+risk_type,Data Quality,1238,628,50.7,203,0.0
+risk_type,Security Review,1178,584,49.6,191,0.0
+risk_type,Vendor Delay,1202,594,49.4,204,0.0
+risk_type,Client Approval,1186,586,49.4,206,0.0
+risk_type,Scope Creep,1135,560,49.3,200,0.0
+risk_type,None Reported,49403,0,0.0,0,100.0
+risk_type,Unknown,1023,0,0.0,0,0.0
+service_line,Finance Transformation,5941,511,8.6,165,81.4
+service_line,Data & Analytics,5999,508,8.5,179,81.5
+service_line,Technology Transformation,6012,498,8.3,153,82.4
+service_line,Operational Excellence,5968,487,8.2,170,82.0
+service_line,Customer Experience,6042,497,8.2,181,82.5
+service_line,Supply Chain Advisory,5820,471,8.1,167,82.4
+service_line,Risk & Controls,6007,484,8.1,168,82.9
+service_line,Cybersecurity,6095,482,7.9,159,82.5
+service_line,Cloud Migration,6178,478,7.7,157,82.9
+service_line,Erp Modernization,5938,438,7.4,151,82.9

@@ -1,0 +1,42 @@
+"dimension","segment","records","clients","revenue","record_share_pct","revenue_share_pct"
+client,Meridian Energy Group,6060,1,22492266,10.1,10.7
+client,Summit Utilities,5998,1,21261509,10.0,10.1
+client,Atlas Components,5907,1,21160915,9.8,10.1
+client,Bluepeak Telecom,6012,1,20610318,10.0,9.8
+client,Crestline Infrastructure,6067,1,20562183,10.1,9.8
+client,Redwood Packaging,5800,1,20515602,9.7,9.8
+client,Evergreen Materials,5974,1,20429728,10.0,9.7
+client,Orion Industrial Systems,5919,1,20391213,9.9,9.7
+client,Pinnacle Foods Manufacturing,5798,1,20274465,9.7,9.7
+client,Northstar Mobility Ltd,6018,1,20190254,10.0,9.6
+client,Unknown,447,1,1757483,0.7,0.8
+industry,Manufacturing,9952,11,35679723,16.6,17.0
+industry,Energy & Utilities,10031,11,35449624,16.7,16.9
+industry,Automotive,9963,11,35353307,16.6,16.9
+industry,Telecommunications,9978,11,34668761,16.6,16.5
+industry,Infrastructure,10069,11,34641153,16.8,16.5
+industry,Materials,10007,11,33853367,16.7,16.1
+office,Pune,7526,11,27118877,12.5,12.9
+office,Ahmedabad,7496,11,26938340,12.5,12.8
+office,Kolkata,7559,11,26805428,12.6,12.8
+office,Mumbai,7329,11,26474718,12.2,12.6
+office,Hyderabad,7405,11,25753452,12.3,12.3
+office,Chennai,7549,11,25575564,12.6,12.2
+office,Bengaluru,7261,11,24733074,12.1,11.8
+office,Delhi Ncr,7404,11,24424414,12.3,11.7
+office,Not Given,471,11,1822069,0.8,0.9
+region,Central,11967,11,42880078,19.9,20.5
+region,North,12068,11,42220219,20.1,20.1
+region,East,12027,11,42131196,20.0,20.1
+region,South,11989,11,41873496,20.0,20.0
+region,West,11949,11,40540946,19.9,19.3
+service_line,Cybersecurity,6095,11,21914276,10.2,10.5
+service_line,Cloud Migration,6178,11,21580339,10.3,10.3
+service_line,Risk & Controls,6007,11,21413782,10.0,10.2
+service_line,Technology Transformation,6012,11,21309359,10.0,10.2
+service_line,Erp Modernization,5938,11,21259013,9.9,10.1
+service_line,Customer Experience,6042,11,21143382,10.1,10.1
+service_line,Finance Transformation,5941,11,20804266,9.9,9.9
+service_line,Operational Excellence,5968,11,20632057,9.9,9.8
+service_line,Data & Analytics,5999,11,20381872,10.0,9.7
+service_line,Supply Chain Advisory,5820,11,19207589,9.7,9.2

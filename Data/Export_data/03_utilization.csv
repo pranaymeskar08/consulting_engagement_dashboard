@@ -1,0 +1,75 @@
+"dimension","segment","records","avg_utilization_pct","avg_util_client_delivery","at_risk_hold_pct"
+grade,Analyst,14929,11.6,11.5,33.4
+grade,Consultant,15040,11.6,11.7,33.2
+grade,Director,3028,11.5,11.2,32.4
+grade,Manager,9022,11.6,11.6,32.7
+grade,Senior Consultant,13184,11.6,11.7,33.3
+grade,Senior Manager,4797,11.6,11.5,32.8
+month,"2024-01",1857,11.7,11.9,33.2
+month,"2024-02",1687,11.7,11.6,33.7
+month,"2024-03",1848,11.5,11.6,31.5
+month,"2024-04",1785,11.4,11.5,34.1
+month,"2024-05",1863,11.5,11.6,32.3
+month,"2024-06",1832,11.6,11.6,30.9
+month,"2024-07",1833,11.8,11.5,33.9
+month,"2024-08",1833,11.8,11.8,33.2
+month,"2024-09",1832,11.6,11.9,33.1
+month,"2024-10",1778,11.6,11.4,34.0
+month,"2024-11",1825,11.6,11.2,33.8
+month,"2024-12",1936,11.6,11.9,33.1
+month,"2025-01",1804,11.5,11.1,34.1
+month,"2025-02",1749,11.8,12.1,33.5
+month,"2025-03",1894,11.6,11.7,34.7
+month,"2025-04",1747,11.7,11.6,33.0
+month,"2025-05",1920,11.5,11.7,33.0
+month,"2025-06",1820,11.5,12.0,31.9
+month,"2025-07",1851,11.6,11.7,33.7
+month,"2025-08",1902,11.7,11.6,33.6
+month,"2025-09",1736,11.7,11.4,32.7
+month,"2025-10",1818,11.6,11.5,34.3
+month,"2025-11",1744,11.7,11.5,33.9
+month,"2025-12",1878,11.6,11.6,33.5
+month,"2026-01",1833,11.8,11.3,32.7
+month,"2026-02",1656,11.5,11.5,31.8
+month,"2026-03",1838,11.6,11.4,31.4
+month,"2026-04",1778,11.5,11.4,32.6
+month,"2026-05",1839,11.6,11.7,31.6
+month,"2026-06",1770,11.7,11.3,33.1
+month,"2026-07",1827,11.5,11.6,33.1
+month,"2026-08",1824,11.6,11.4,32.3
+month,"2026-09",1730,11.5,12.0,34.2
+month,"2026-10",4,8.9,4.7,25.0
+month,"2026-11",6,12.2,10.2,50.0
+month,"2026-12",5,12.1,,60.0
+month,,118,10.5,10.1,36.4
+office,Ahmedabad,7496,11.7,11.7,33.2
+office,Bengaluru,7261,11.7,11.5,33.0
+office,Chennai,7549,11.6,11.6,33.8
+office,Delhi Ncr,7404,11.6,11.6,33.5
+office,Hyderabad,7405,11.6,11.5,33.6
+office,Kolkata,7559,11.6,11.7,32.1
+office,Mumbai,7329,11.6,11.5,32.6
+office,Not Given,471,11.7,11.2,34.2
+office,Pune,7526,11.6,11.6,32.9
+region,Central,11967,11.6,11.6,32.8
+region,East,12027,11.6,11.6,33.2
+region,North,12068,11.7,11.7,33.5
+region,South,11989,11.6,11.6,33.6
+region,West,11949,11.5,11.4,32.4
+service_line,Cloud Migration,6178,11.5,11.5,32.2
+service_line,Customer Experience,6042,11.6,11.7,32.3
+service_line,Cybersecurity,6095,11.6,11.5,33.7
+service_line,Data & Analytics,5999,11.5,11.4,33.6
+service_line,Erp Modernization,5938,11.6,11.6,33.6
+service_line,Finance Transformation,5941,11.6,11.5,33.5
+service_line,Operational Excellence,5968,11.7,11.6,32.7
+service_line,Risk & Controls,6007,11.6,11.9,33.2
+service_line,Supply Chain Advisory,5820,11.7,11.5,33.3
+service_line,Technology Transformation,6012,11.7,11.6,32.7
+work_type,Bench,8535,11.6,,33.1
+work_type,Business Development,8598,11.6,,33.3
+work_type,Client Delivery,8744,11.6,11.6,33.3
+work_type,Internal Initiative,8396,11.6,,33.4
+work_type,Leave,8465,11.6,,32.4
+work_type,Proposal,8613,11.6,,33.3
+work_type,Training,8649,11.6,,32.8

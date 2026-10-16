@@ -1,0 +1,39 @@
+"dimension","segment","records","at_risk_hold_records","at_risk_hold_pct","open_records","overdue_records","overdue_pct_of_open"
+industry,Infrastructure,10069,3367,33.4,6667,5917,88.8
+industry,Energy & Utilities,10031,3320,33.1,6560,5825,88.8
+industry,Telecommunications,9978,3304,33.1,6479,5731,88.5
+industry,Automotive,9963,3285,33.0,6539,5832,89.2
+industry,Manufacturing,9952,3285,33.0,6526,5839,89.5
+industry,Materials,10007,3289,32.9,6595,5872,89.0
+partner,V. Rao,6019,2062,34.3,3954,3500,88.5
+partner,A. Mehta,5864,1971,33.6,3838,3419,89.1
+partner,N. Desai,6012,2016,33.5,3992,3546,88.8
+partner,K. Shah,5876,1955,33.3,3829,3412,89.1
+partner,R. Iyer,5898,1957,33.2,3856,3416,88.6
+partner,P. Banerjee,5945,1970,33.1,3920,3502,89.3
+partner,D. Kulkarni,5950,1963,33.0,3916,3470,88.6
+partner,T. Khanna,5978,1958,32.8,3925,3508,89.4
+partner,S. Kapoor,5975,1933,32.4,3862,3459,89.6
+partner,M. Reddy,5887,1876,31.9,3874,3430,88.5
+partner,Unknown,596,189,31.7,400,354,88.5
+region,South,11989,4024,33.6,7898,7003,88.7
+region,North,12068,4037,33.5,7878,7020,89.1
+region,East,12027,3989,33.2,7927,7036,88.8
+region,Central,11967,3925,32.8,7847,6994,89.1
+region,West,11949,3875,32.4,7816,6963,89.1
+service_line,Cybersecurity,6095,2051,33.7,4038,3602,89.2
+service_line,Erp Modernization,5938,1996,33.6,3918,3480,88.8
+service_line,Data & Analytics,5999,2018,33.6,3987,3530,88.5
+service_line,Finance Transformation,5941,1991,33.5,3879,3477,89.6
+service_line,Supply Chain Advisory,5820,1939,33.3,3818,3401,89.1
+service_line,Risk & Controls,6007,1995,33.2,3980,3544,89.0
+service_line,Technology Transformation,6012,1966,32.7,3953,3521,89.1
+service_line,Operational Excellence,5968,1953,32.7,3868,3430,88.7
+service_line,Customer Experience,6042,1951,32.3,3950,3507,88.8
+service_line,Cloud Migration,6178,1990,32.2,3975,3524,88.7
+status,At Risk,9954,9954,100.0,9954,8855,89.0
+status,On Hold,9896,9896,100.0,9896,8819,89.1
+status,Completed,9877,0,0.0,0,0,
+status,Active,19516,0,0.0,19516,17342,88.9
+status,Unknown,986,0,0.0,0,0,
+status,Cancelled,9771,0,0.0,0,0,
