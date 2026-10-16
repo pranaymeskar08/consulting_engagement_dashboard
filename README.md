@@ -162,7 +162,7 @@ Two pages built in Power BI from the `vw_engagement` view, so slicers filter eve
 
 #### Page 1: Executive engagement
 
-![Executive engagement page](Images\Executive_engagement_overview.png)
+![Executive engagement page](Images/Executive_engagement_overview.png)
 
 > *One view of delivery risk, status mix, utilization and risk severity, so leadership can see in seconds where attention is needed.*
 
